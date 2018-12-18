@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-//	"os"
+	"os"
 	"net/http"
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
